@@ -1,4 +1,4 @@
-# PBI - Pastebin Directory Index
+# PDI - Pastebin Directory Index
 ## Easy to use Pastebin Sites and their features
 
 - **BinBin[dot]it:** https://bitbin.it/ *+SyntaxHighlight +HiddenPaste +Encryption+*
