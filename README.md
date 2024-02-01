@@ -10,7 +10,7 @@
 - **dpaste[dot]org:** https://dpaste.org/ *+SyntaxHighlight*
 - **dpaste[dot]com:** https://dpaste.com/ *+SyntaxHighlight +Encrypted*
 - **Mozilla Paste:** https://paste.mozilla.org/ *+SyntaxHighlight*
-- **PasteCode:** https://pastecode.io/ *+SyntaxHighlight +PasswordProtected +Indexable +Comments +Encrypted +Search*
+- **PasteCode:** https://pastecode.io/ *+SyntaxHighlight +PasswordProtected +Indexable +Encrypted +Search*
 - **Paste[dot]ee:** https://paste.ee/ *+Encrypted*
 - **PasteIO:** https://pasteio.com/ *+SyntaxHighlight +HiddenPaste +PasswordProtected +Tools*
-- **ZBin:** https://zbin.dev/ *+Encrypted +FileUpload +SyntaxHighlight +Comments*
+- **ZBin:** https://zbin.dev/ *+Encrypted +FileUpload +SyntaxHighlight  +PasswordProtected +Comments*
