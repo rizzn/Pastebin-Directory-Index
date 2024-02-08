@@ -6,7 +6,7 @@
 | **BinBin[dot]it** | https://bitbin.it/ | ✅ | ✅ | ✅ | ⛔ | ⛔ | ⛔ |
 | **Centos Paste** | https://paste.centos.org/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
 | **Commie** | https://commie.io/ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ | ✅ |
-| **Commie** | https://paste.centos.org/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
+| **Centos** | https://paste.centos.org/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
 | **Cryptobin** | https://cryptobin.co/ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
 | **Dafuse** | https://defuse.ca/pastebin.htm | ✅ | ⛔ | ⛔ | ✅ | ⛔ | ⛔ |
 | **Debian Paste** | https://paste.debian.net/ | ⛔ | ✅ | ✅ | ⛔ | ⛔ | ⛔ |
