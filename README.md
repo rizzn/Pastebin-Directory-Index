@@ -16,5 +16,6 @@
 | **PasteCode** | https://pastecode.io/ | ✅ | ✅ | ⛔ | ⛔ | ✅ | ✅ |
 | **Paste[dot]ee** | https://paste.ee/ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
 | **PasteIO** | https://pasteio.com/ | ⛔ | ✅ | ✅ | ✅ | ⛔ | ⛔ |
+| **PrivateBin[dot]io** | https://privatebin.io/ | ✅ | ✅ | ⛔ | ✅ | ✅ | ✅ |
 | **snippet[dot]host** | https://snippet.host/ | ⛔ | ✅ | ✅ | ⛔ | ⛔ | ⛔ |
 | **ZBin** | https://zbin.dev/ | ✅ | ✅ | ⛔ | ✅ | ✅ | ✅ |
