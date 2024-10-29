@@ -13,9 +13,9 @@
 | **dpaste[dot]org** | https://dpaste.org/ | ⛔ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
 | **dpaste[dot]com** | https://dpaste.com/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
 | **Mozilla Paste** | https://paste.mozilla.org/ | ⛔ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
+| **OneView[dot]it** | https://oneview.it/ | ✅ | ✅ | ⛔ | ✅ | ✅ | ✅ |
 | **PasteCode** | https://pastecode.io/ | ✅ | ✅ | ⛔ | ⛔ | ✅ | ✅ |
 | **Paste[dot]ee** | https://paste.ee/ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ | ⛔ |
 | **PasteIO** | https://pasteio.com/ | ⛔ | ✅ | ✅ | ✅ | ⛔ | ⛔ |
 | **PrivateBin[dot]io** | https://privatebin.io/ | ✅ | ✅ | ⛔ | ✅ | ✅ | ✅ |
 | **snippet[dot]host** | https://snippet.host/ | ⛔ | ✅ | ✅ | ⛔ | ⛔ | ⛔ |
-| **ZBin** | https://zbin.dev/ | ✅ | ✅ | ⛔ | ✅ | ✅ | ✅ |
